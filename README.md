@@ -1,5 +1,5 @@
 # OTP-python
-# @author: Jared Curtis
+# author: Jared Curtis
 One-time-pad encryption scheme made in python version 3.8.9
 
 To use, simply run the file.
